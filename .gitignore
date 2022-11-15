@@ -1,6 +1,9 @@
 ##### User Defined #####
 img_ped/
 test*
+ped/
+rendered/
+warning_ped/
 
 ##### Pre Defined #####
 # Byte-compiled / optimized / DLL files
